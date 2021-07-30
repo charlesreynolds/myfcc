@@ -1,8 +1,6 @@
 # FCC tribute page
 
-### First project
+### Alan Turing
 
-#### Alan Turing
-
-##### The father of theoretical computer science and AI
+#### The father of theoretical computer science and AI
 
